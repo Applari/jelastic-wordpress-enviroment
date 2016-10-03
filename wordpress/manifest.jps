@@ -4,7 +4,7 @@
 	"application": {
 		"id": "applar_wordpress",
 		"name": "Applari Wordpress",
-		"version": "4.3.1",
+		"version": "latest",
 		"categories": [
 				"apps/blogs", "apps/content-management"
 		],
