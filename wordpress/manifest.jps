@@ -17,7 +17,7 @@
 		"env": {
 			"topology": {
 				"ha": false,
-				"engine": "php7",
+				"engine": "php7.0",
 				"ssl": false,
 				"nodes": [{
 						"extip": false,
