@@ -2,8 +2,8 @@
 	"jpsVersion": "0.3",
 	"jpsType": "install",
 	"application": {
-		"id": "wordpress",
-		"name": "Wordpress",
+		"id": "applar_wordpress",
+		"name": "Applari Wordpress",
 		"version": "4.3.1",
 		"categories": [
 				"apps/blogs", "apps/content-management"
