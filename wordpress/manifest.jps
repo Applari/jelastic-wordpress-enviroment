@@ -17,18 +17,18 @@
 		"env": {
 			"topology": {
 				"ha": false,
-				"engine": "php5.3",
+				"engine": "php7",
 				"ssl": false,
 				"nodes": [{
 						"extip": false,
 						"count": 1,
-						"cloudlets": 16,
+						"cloudlets": 5,
 						"nodeType": "nginxphp"
 					}, {
 						"nodeType": "mysql5",
 						"extip": false,
 						"count": 1,
-						"cloudlets": 16
+						"cloudlets": 5
 					}
 				]
 			},
